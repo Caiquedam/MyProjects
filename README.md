@@ -1,2 +1,2 @@
 # MyProjects
-Projetos Acadêmicos e Aessoais
+Projetos Acadêmicos e Pessoais
